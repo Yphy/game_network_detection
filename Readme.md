@@ -10,8 +10,8 @@
 - k-means clustering by network features
 - visualization by Gephi
 
-  <img src="img/cluster2.png" width="400" height="400">
-  <img src="img/cluster1.png" width="400" height="400">
+  <img src="img/cluster2.png" width="350" height="350">
+  <img src="img/cluster1.png" width="350" height="350">
 
 ### User clustering
 - Personal activities
